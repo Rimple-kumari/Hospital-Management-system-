@@ -38,6 +38,12 @@ The **Hospital Management System (HMS)** is a web-based application built with P
 ![image](https://github.com/user-attachments/assets/e9b321c7-137c-4587-b665-10064832d05e)
 
 
+## registeration page 
+![image](https://github.com/user-attachments/assets/673b6995-f999-4a06-95d9-0514a003aa8c)
+
+## patients login 
+![image](https://github.com/user-attachments/assets/7b155e79-65f4-40d5-8f36-710527228cda)
+
 
 
 
